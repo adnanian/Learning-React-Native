@@ -7,3 +7,15 @@ This repository contains follow-along projects from the course: React Native - T
 This README.md file serves as a collection of notes and summaries for each section, providing insights into the key concepts and techniques covered in the course.
 
 And it also serves as an index for the projects, allowing you to easily navigate to the relevant folders and files for each section.
+
+## Helpful Resources
+
+- <https://reactnative.dev/docs/style>
+
+- <https://reactnative.dev/docs/colors>
+
+- <https://reactnative.dev/docs/view>
+
+- <https://reactnative.dev/docs/view#style>
+
+- <https://reactnative.dev/docs/view-style-props>
